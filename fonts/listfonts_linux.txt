@@ -1,0 +1,12 @@
+FreeMono,FreeMono.ttf
+FreeSans,FreeSans.ttf
+FreeSerif,FreeSerif.ttf
+DejaVuSans,DejaVuSans.ttf
+DejaVuSerif,DejaVuSerif.ttf
+NanumGothic,NanumGothic.ttf
+NanumMyeongjo,NanumMyeongjo.ttf
+Ubuntu-B,Ubuntu-B.ttf
+Ubuntu-C,Ubuntu-C.ttf
+Ubuntu-M,Ubuntu-M.ttf
+Ubuntu-L,Ubuntu-L.ttf
+Ubuntu-R,Ubuntu-R.ttf
