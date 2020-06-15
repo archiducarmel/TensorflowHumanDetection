@@ -1,6 +1,6 @@
 numpy==1.18.5
 six==1.15.0
-tensorflow_gpu==1.15.0
+tensorflow_gpu==1.15.2
 pings==0.0.1
 opencv_contrib_python==4.2.0.34
 Pillow==7.1.2
