@@ -1,4 +1,4 @@
-numpy==1.18.5
+numpy==1.22.0
 six==1.15.0
 tensorflow_gpu==1.15.2
 pings==0.0.1
